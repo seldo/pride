@@ -1,0 +1,11 @@
+{
+  "name": "pride",
+  "version": "1.0.0",
+  "description": "[LGBTQ in Tech](http://lgbtq.technology) is a community organization for LGBTQ people in the technology industry worldwide. We seek to provide professional and personal support to LGBTQ folks across a range of communities and identities -- especially for underserved groups such as PoC, neuroatypical, trans, bi/pan, and non-binary people. Selfies welcome.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
