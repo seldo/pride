@@ -1,11 +1,10 @@
 {
   "name": "pride",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "LGBTQ.technology is a community group for queer people in tech worldwide",
   "main": "index.js",
   "scripts": {
-    "start": "open http://lgbtq.technology",
-    "postinstall": "node ./scripts/postinstall.js"
+    "postinstall": "open http://lgbtq.technology"
   },
   "author": "",
   "license": "ISC",
