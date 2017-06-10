@@ -4,7 +4,7 @@
   "description": "LGBTQ.technology is a community group for queer people in tech worldwide",
   "main": "index.js",
   "scripts": {
-    "postinstall": "open http://lgbtq.technology"
+    "postinstall": "opn http://lgbtq.technology"
   },
   "author": "",
   "license": "ISC",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/seldo/pride/issues"
   },
-  "homepage": "https://github.com/seldo/pride#readme"
+  "homepage": "https://github.com/seldo/pride#readme",
+  "dependencies": {
+    "opn-cli": "3.1.0"
+  }
 }
