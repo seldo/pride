@@ -4,8 +4,8 @@
   "description": "LGBTQ.technology is a community group for queer people in tech worldwide",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "open http://lgbtq.technology"
+    "start": "open http://lgbtq.technology",
+    "postinstall": "node ./scripts/postinstall.js"
   },
   "author": "",
   "license": "ISC"
